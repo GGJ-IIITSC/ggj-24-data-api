@@ -5,8 +5,8 @@
     "teamName": "ping0ms",
     "projectLogoUrl": "https://raw.githubusercontent.com/ping0ms/root-ninja/5a94f95d898c40be0b641cff09db98e10ffdf8de/assets/ninjaFace.png",
     "projectDesc": "Once upon a time in the village Angbotain, the shinobi of the nature clan lived happily. But suddenly one day out of nowhere disaster struck and everyone fell victim to a deadly disease",
-    "teamMembers": ["Aahnik", "Suvan", "Bishwajeet"],
-    "techStack": ["Scratch", "React", "Node.js"],
+    "teamMembers": ["Aahnik", "Suvan", "Bishwajeet", "Varun", "Srinath"],
+    "techStack": ["Scratch", "Godot"],
     "projectUrl": "https://github.com/iota-iiits/global-game-jam-2023"
   },
   {
@@ -14,9 +14,9 @@
     "projectName": "Drop N Drop",
     "teamName": "VNSGN Gaming Networks",
     "projectLogoUrl": "https://raw.githubusercontent.com/Laxical/global-game-jam-2023/main/VNSGN%20Gaming%20Networks_Drop%20N%20Drop/credits/WhatsApp%20Image%202023-02-05%20at%204.35.59%20PM.jpeg",
-    "projectDesc": "",
-    "teamMembers": [""],
-    "techStack": ["GDScript","GAP"],
+    "projectDesc": "This a an awesome game!",
+    "teamMembers": ["Unknown"],
+    "techStack": ["GDScript", "GAP"],
     "projectUrl": "https://github.com/iota-iiits/global-game-jam-2023/tree/main/VNSGN%20Gaming%20Networks_Drop%20N%20Drop"
   },
   {
@@ -34,7 +34,7 @@
     "projectName": "Root Rundown",
     "teamName": "QueueingDelay",
     "projectLogoUrl": "https://raw.githubusercontent.com/BlackGoku36/GGJRice2D/ba5bd1b2c2e5542c6b275dd51a8b3a5c58fae9d5/Sources/logologo.png",
-    "projectDesc": "",
+    "projectDesc": "This is an awesome game!",
     "teamMembers": [""],
     "techStack": ["Haxe", "JavaScript"],
     "projectUrl": "https://github.com/BlackGoku36/GGJRice2D/tree/ba5bd1b2c2e5542c6b275dd51a8b3a5c58fae9d5"

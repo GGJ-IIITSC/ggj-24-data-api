@@ -1,12 +1,12 @@
 [
   {
     "id": 1,
-    "question": "What is Lorem Ipsum?",
-    "answer": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+    "question": "What is Global Game Jam ?",
+    "answer": "The GGJ mission is to empower individuals worldwide to learn, experiment, and create together through the medium of games. The organization oversees various efforts both globally and locally to encourage communities to join together to make games. The GGJ provides unique opportunities for people to create, collaborate and practice their game creation skills, and invites everyone of any skill level to take part."
   },
   {
     "id": 2,
-    "question": "Why do we use it?",
-    "answer": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+    "question": "Who can participate in GGJ ?",
+    "answer": "Anyone can participate, as long as they are over the age of majority in the country hosting the jam (in most places this is 18, but check with your local site if you are not sure). People ages 16 & 17 can participate with a signed parental permission slip. Underage jammers can also participate if they are accompanied by a legal guardian.  Experience is not necessary. Designers, developers, artists, musicians, knitters, gardeners, architects, everyone and anyone is welcome to try their hand at making a game during the GGJ. You can lean many new skills and support your team by contributing ideas, playtesting, and giving moral support. You could work on a non-digital game, and then there's no need for code!"
   }
 ]
