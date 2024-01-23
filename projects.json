@@ -5,8 +5,8 @@
     "teamName": "ping0ms",
     "projectLogoUrl": "https://raw.githubusercontent.com/ping0ms/root-ninja/5a94f95d898c40be0b641cff09db98e10ffdf8de/assets/ninjaFace.png",
     "projectDesc": "Once upon a time in the village Angbotain, the shinobi of the nature clan lived happily. But suddenly one day out of nowhere disaster struck and everyone fell victim to a deadly disease",
-    "teamMembers": ["Aahnik", "Suvan", "Bishwajeet", "Varun", "Srinath"],
-    "techStack": ["Scratch", "Godot"],
+    "teamMembers": ["Aahnik", "Suvan", "Bishwajeet", "Varun Mantri", "Srinath"],
+    "techStack": ["Scratch", "Godot", "GDScript"],
     "projectUrl": "https://github.com/iota-iiits/global-game-jam-2023"
   },
   {
@@ -34,9 +34,29 @@
     "projectName": "Root Rundown",
     "teamName": "QueueingDelay",
     "projectLogoUrl": "https://raw.githubusercontent.com/BlackGoku36/GGJRice2D/ba5bd1b2c2e5542c6b275dd51a8b3a5c58fae9d5/Sources/logologo.png",
-    "projectDesc": "This is an awesome game!",
-    "teamMembers": [""],
+    "projectDesc": "Web based tiling maths game.",
+    "teamMembers": ["Urjasvi Suthar", "Tarun Patibandla", "Nishant Shinde", "Chandra Adhikarla", "Aarav Nigam"],
     "techStack": ["Haxe", "JavaScript"],
     "projectUrl": "https://github.com/BlackGoku36/GGJRice2D/tree/ba5bd1b2c2e5542c6b275dd51a8b3a5c58fae9d5"
+  },
+  {
+    "id": 5,
+    "projectName": "CordyCeps",
+    "teamName": "CordyCeps",
+    "projectLogoUrl": "https://i.pinimg.com/736x/4e/51/e6/4e51e673a4cab52660512041d00e9186.jpg",
+    "projectDesc":"Unreal Engine based 3D game",
+    "teamMembers": ["Unknown"],
+    "techStack": ["Unity"],
+    "projectUrl": "https://github.com/Thubr/cordyceps"
+  },
+  {
+    "id": 6,
+    "projectName": "stroots",
+    "teamName": "TEAM_RYZUKA",
+    "projectLogoUrl": "https://i.imgur.com/oPxgWxU.jpg",
+    "projectDesc":"A memory game based on finding pairs of cards.",
+    "teamMembers": ["Adarsh Singh", "Aditya Pal", "Piysuh Singh", "Abhishek Suwalka"],
+    "techStack": ["Godot", "GDScript"],
+    "projectUrl": "https://github.com/piyush-bug/stroots/tree/1fe3e342d36bf7ee066dc983707c303a2c64f239"
   }
 ]

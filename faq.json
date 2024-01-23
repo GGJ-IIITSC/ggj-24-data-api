@@ -8,5 +8,15 @@
     "id": 2,
     "question": "Who can participate in GGJ ?",
     "answer": "Anyone can participate, as long as they are over the age of majority in the country hosting the jam (in most places this is 18, but check with your local site if you are not sure). People ages 16 & 17 can participate with a signed parental permission slip. Underage jammers can also participate if they are accompanied by a legal guardian.  Experience is not necessary. Designers, developers, artists, musicians, knitters, gardeners, architects, everyone and anyone is welcome to try their hand at making a game during the GGJ. You can lean many new skills and support your team by contributing ideas, playtesting, and giving moral support. You could work on a non-digital game, and then there's no need for code!"
+  },
+  {
+    "id": 3,
+    "question":"What is the theme for this year's GGJ?",
+    "answer": "The theme for this year's GGJ is 'Make me laugh'. Do your best to create a game that will bring out the best laughter in the player! Remember to have fun in the process too!"
+  },
+  {
+    "id": 4,
+    "question": "What are the timings and location for GGJ at IIIT Sri City?",
+    "answer": "The Global Game Jam event will be held in the academic block of Indian Institute of Information Technology, Sri City from 26th January to 28th January. The event will start at 5:00 PM on 26th January and will end at 5:00 PM on 28th January."
   }
 ]
